@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+#toto {
+	color: red;
+}
+
+.maclasse {
+	color: blue;
+}
+
+p:FIRST-LETTER {
+	font-size: 2em;
+}

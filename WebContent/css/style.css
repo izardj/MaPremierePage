@@ -1,0 +1,35 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color: orange;
+}
+
+h1 {
+	color: cyan;
+	font-family: fantasy;
+	font-size: 2em;
+}
+
+p {
+	color: blue;
+	font-family: cursive;
+	font-size: 1em;
+}
+p:FIRST-LETTER{
+	font-size: 2em;
+	color:#13ec1e;
+}
+
+a {
+	color: green;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#toto{
+	color:red;
+
+}
+.maclasse{
+	color: pink;
+}
