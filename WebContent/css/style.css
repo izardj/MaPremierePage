@@ -12,8 +12,9 @@ h1 {
 
 p {
 	color: blue;
-	font-family: cursive;
+	font-family: cursive, sans-serif;
 	font-size: 1em;
+	fon
 }
 p:FIRST-LETTER{
 	font-size: 2em;
